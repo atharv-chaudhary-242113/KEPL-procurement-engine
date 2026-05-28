@@ -45,6 +45,7 @@ dist/
 /output/
 /logs/
 /models/
+/Mechanics/
 *.csv
 *.xlsx
 *.xls
